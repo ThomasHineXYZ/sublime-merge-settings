@@ -1,0 +1,10 @@
+[
+    { // Changes to previous file tab
+        "keys": ["ctrl+shift+tab"],
+        "command": "prev_file_tab"
+    },
+    { // Changes to next file tab
+        "keys": ["ctrl+tab"],
+        "command": "next_file_tab"
+    }
+]
