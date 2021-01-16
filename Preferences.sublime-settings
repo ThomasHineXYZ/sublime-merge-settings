@@ -3,4 +3,5 @@
 {
 
 	"theme": "Merge Dark.sublime-theme",
+	"side_bar_layout": "columns",
 }
