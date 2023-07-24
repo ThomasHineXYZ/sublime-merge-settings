@@ -4,4 +4,9 @@
 
 	"theme": "Merge Dark.sublime-theme",
 	"side_bar_layout": "columns",
+	"font_face": "Deja Vu Sans Mono",
+	"hardware_acceleration": "opengl",
+	"time_format": "24h",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 }
